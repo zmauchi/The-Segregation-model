@@ -27,9 +27,7 @@ Then open your browser to [http://127.0.0.1:8521/](http://127.0.0.1:8521/) and p
 
 To view and run some example model analyses, launch the IPython Notebook and open ``analysis.ipynb``. Visualizing the analysis also requires [matplotlib](http://matplotlib.org/).
 
-## How to Run without the GUI
 
-To run the model with the grid displayed as an ASCII text, run `python run_ascii.py` in this directory.
 
 ## Files
 
